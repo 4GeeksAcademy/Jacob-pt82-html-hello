@@ -1,0 +1,21 @@
+body {
+    font-family: roboto;
+    background-color: black;
+    color: red;
+    margin: 0;
+}
+
+.card {
+    background-color: white;
+    height: 750px;
+    width: 400px;
+    margin: 85px auto;
+}
+
+.image {
+    padding-top: 35px;
+}
+
+.image img {
+    width: 400px;
+}
